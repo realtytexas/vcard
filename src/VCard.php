@@ -47,7 +47,13 @@ class VCard
         'address',
         'phoneNumber',
         'url',
-        'label'
+        'label',
+        'facebook',
+        'instagram',
+        'twitter',
+        'linkedin',
+        'tiktok',
+        'youtube'
     ];
 
     /**
